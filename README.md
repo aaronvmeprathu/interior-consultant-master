@@ -9,7 +9,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{https://aaronvmeprathu.github.io/interior-consultant-master/}">
+    <a href="https://aaronvmeprathu.github.io/interior-consultant-master/">
       Demo
     </a>
     <span> | </span>
